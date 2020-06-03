@@ -26,3 +26,10 @@ public class Loops {
 
     }
 }
+OUTPUT: 
+         *       enter the number 153
+            153 is an armstrong number
+            
+         *   enter the number 12
+            12 is not an armstrong number
+
